@@ -1,0 +1,30 @@
+h1{
+font-family: cursive;
+position: central;
+}
+
+header{
+    background-color: peru;
+    height: 30vh;
+    ;
+}
+
+main{
+    background-color: tomato;
+    height: 
+    67vh;
+    min-height: 30pt;
+}
+button{
+    width: 30vw;
+    min-width: 100pt;
+    height:30vh;
+    min-height: 30pt;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+    background-color: rgb(255, 255, 0);
+    height: 67vh;
+}
