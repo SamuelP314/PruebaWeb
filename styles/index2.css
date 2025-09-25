@@ -4,15 +4,14 @@ position: central;
 }
 
 header{
-    background-color: peru;
-    height: 30vh;
+    background-color: rgb(64, 255, 0);
+    height: 20vh;
     ;
 }
 
 main{
-    background-color: tomato;
-    height: 
-    67vh;
+    background-color: rgb(0, 216, 255);
+    height: 70vh;
     min-height: 30pt;
 }
 button{
@@ -26,5 +25,19 @@ h3{
 }
 footer{
     background-color: rgb(255, 255, 0);
-    height: 67vh;
+    height: 10vh;
+}
+
+section{
+    background-color: blueviolet;
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+@media (max-width: 800px) {
+    section{
+        flex-direction: column;
+    }
 }
