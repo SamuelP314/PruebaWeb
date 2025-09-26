@@ -21,10 +21,15 @@ button{
     height:30vh;
     min-height: 30pt;
 }
+
 h3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 footer{
     background-color: rgb(255, 255, 0);
     height: 67vh;
+}
+
+div{
+    display: inline;
 }
